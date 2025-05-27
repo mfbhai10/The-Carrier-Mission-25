@@ -52,6 +52,16 @@ nav h1 {
   margin-top: 1rem;
 }
 
+.btn1:hover {
+  background-image: linear-gradient(to right, #40ff00, #ddff47);
+  color: #f46a6a;
+}
+
+.btn2:hover{
+  background-image: linear-gradient(to right, #00ffd5, #f5efd9);
+  color: #000;
+}
+
 section {
   text-align: center;
   margin: 0 auto;
